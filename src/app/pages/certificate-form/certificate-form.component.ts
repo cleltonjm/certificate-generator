@@ -16,6 +16,10 @@ export class CertificateFormComponent {
   atividades: string[] = [];
 
   campoInvalido(control: NgModel) {
-    return control.invalid && control.touched
+    return control.invalid && control.touched;
+  }
+
+  formValido() {
+    return this.atividades.length > 0 && this.nome.length > 0;
   }
 }
