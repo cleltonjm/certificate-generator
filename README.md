@@ -6,10 +6,10 @@
 * [Preview](#preview)
 
 ## Preview
-![](https://github.com/cleltonjm/certificate-generator/.github/home.jpg)
-![](https://github.com/cleltonjm/certificate-generator/.github/create.jpg)
-![](https://github.com/cleltonjm/certificate-generator/.github/certificate.jpg)
-![](https://github.com/cleltonjm/certificate-generator/.github/list.jpg)
+![](https://github.com/cleltonjm/certificate-generator/blob/main/.github/home.jpg)
+![](https://github.com/cleltonjm/certificate-generator/blob/main/.github/create.jpg)
+![](https://github.com/cleltonjm/certificate-generator/blob/main/.github/certificate.jpg)
+![](https://github.com/cleltonjm/certificate-generator/blob/main/.github/list.jpg)
 
 ## Sobre
 Este é um projeto desenvolvido durante o curso de introdução ao Angular pela Rocketseat.
